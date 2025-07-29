@@ -1,0 +1,17 @@
+﻿global using Microsoft.AspNetCore.Mvc;
+global using task.ems.bll.Abstractions.Services.Departments;
+global using task.ems.bll.Abstractions.Services.Departments.Create;
+global using task.ems.bll.Abstractions.Services.Departments.Delete;
+global using task.ems.bll.Abstractions.Services.Departments.Dtos;
+global using task.ems.bll.Abstractions.Services.Departments.Get;
+global using task.ems.bll.Abstractions.Services.Departments.Paginate;
+global using task.ems.bll.Abstractions.Services.Departments.Update;
+global using task.ems.bll.Abstractions.Services.Employees;
+global using task.ems.bll.Abstractions.Services.Employees.Create;
+global using task.ems.bll.Abstractions.Services.Employees.Dtos;
+global using task.ems.bll.Abstractions.Services.Employees.Paginate;
+global using task.ems.bll.Abstractions.Services.Employees.Update;
+global using task.ems.bll.Abstractions.Services.Logs;
+global using task.ems.bll.Abstractions.Services.Logs.Paginate;
+global using task.ems.bll.Bases.Responses;
+global using task.ems.dal.Entities.Logs;
